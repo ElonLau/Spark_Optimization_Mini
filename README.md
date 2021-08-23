@@ -13,10 +13,11 @@ optimal performance.
 <br/>
 <br/>
 As you might remember from our spark subunit, there are several ways one can improve
-performance of a Spark job:
-1. By picking the right operators
-2. Reduce the number of shuffles and the amount of data shuffled
-3. Tuning Resource Allocation
-4. Tuning the Number of Partitions
-5. Reducing the Size of Data Structures
+performance of a Spark job:<br/>
+<br/>
+1. By picking the right operators <br/>
+2. Reduce the number of shuffles and the amount of data shuffled <br/>
+3. Tuning Resource Allocation<br/><br/>
+4. Tuning the Number of Partitions<br/>
+5. Reducing the Size of Data Structures<br/>
 6. Choosing Data Formats
